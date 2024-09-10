@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Artem from Linz, Austria. 
+Currently on 3rd year JKU AI Bachelor program 
+Python, SQL
 
 <!--
 **artmmr/artmmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
