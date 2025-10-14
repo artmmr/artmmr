@@ -13,7 +13,7 @@
 
 - :student: I'm AI Bachelor student at JKU, Linz
 
-- :round_pushpin: Located in Linz, Austria
+- :round_pushpin: Located in Vienna, Austria
   
 - :man_technologist: Python developer with focus on Data Science, Machine Learning fields
 
